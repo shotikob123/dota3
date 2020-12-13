@@ -3,11 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mynavigation"
-    app:startDestination="@id/tictactoeFragment">
+    app:startDestination="@id/mainmenuFragment">
 
     <fragment
         android:id="@+id/calculatorFragment"
-        android:name="com.example.myapplication1.Fragments.calculatorFragment"
+        android:name="com.example.hopeitworks.Fragments.calculatorFragment"
         android:label="fragment_calculator"
         tools:layout="@layout/fragment_calculator" >
         <action

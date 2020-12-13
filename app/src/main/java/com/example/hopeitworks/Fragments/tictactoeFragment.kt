@@ -13,7 +13,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.Toast
 
-class tictactoeFragment : Fragment(R.layout.fragment_calculator) {
+class tictactoeFragment : Fragment(R.layout.fragment_tictactoe) {
 
 
     class MainActivity : AppCompatActivity(), View.OnClickListener {
