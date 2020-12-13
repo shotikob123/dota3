@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/calculator"
+        android:title="@string/calculator"
+        android:id="@+id/calculatorBtn"/>
+
+</menu>
